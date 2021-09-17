@@ -95,35 +95,240 @@
             </div>
             
         </div>
-        <div class="varios">
-                <p>Countries interest</p>
-                <div class="paises">
-                <div>
-               <input type="checkbox" name="destinity[]" value="Spain">
-               <label>Spain</label><br>
+        
+                <p class="tit">Countries interest</p>
+         <div class="paises">
+                <p>Northern Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Denmark">
+               <label>Denmark</label><br>
                </div>
                <div>
-               <input type="checkbox" name="destinity[]" value="Italy">
-               <label>Italy</label><br>
-               </div>
-               <div>
-               <input type="checkbox" name="destinity[]" value="France">
-               <label>France</label><br>
-               </div>
-               <div>
-               <input type="checkbox" name="destinity[]" value="Portugal">
-               <label>Portugal</label><br>
+               <input type="checkbox" name="destinity[]" value=" Finland">
+               <label> Finland</label><br>
                </div>
                <div>
                <input type="checkbox" name="destinity[]" value="Iceland">
                <label>Iceland</label><br>
                </div>
                <div>
-               <input type="checkbox" name="destinity[]" value="UK">
-               <label>UK</label><br>
+               <input type="checkbox" name="destinity[]" value="Norway">
+               <label>Norway</label><br>
                </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Sweden">
+               <label>Sweden</label><br>
+               </div>
+            
+           </div>
+           <p>Western Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="France">
+               <label>France</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Luxembourg">
+               <label> Luxembourg</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Belgium">
+               <label>Belgium</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Netherlands">
+               <label> Netherlands</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="United Kingdom">
+               <label>United Kingdom</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Liechtenstein">
+               <label> Liechtenstein</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Ireland">
+               <label>Ireland</label><br>
+               </div>
+            
+           </div>
+           <p>Central Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Austria">
+               <label>Austria</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Czech Republic">
+               <label> Czech Republic</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Germany">
+               <label> Germany</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Hungary">
+               <label> Hungary</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Poland">
+               <label>Poland</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Slovakia">
+               <label> Slovakia</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Slovenia">
+               <label> Slovenia</label><br>
+               </div>
+               <div>   
+               <input type="checkbox" name="destinity[]" value=" Switzerland">
+               <label> Switzerland</label><br>
+               </div>
+            
+           </div>
+           <p>Southwest Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Andorra">
+               <label>Andorra</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Portugal">
+               <label> Portugal</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Spain">
+               <label> Spain</label><br>
+               </div>
+        
+            
+           </div>
+           <p>Southern Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Italy">
+               <label>Italy</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Cyprus">
+               <label> Cyprus</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Monaco">
+               <label> Monaco</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Greece">
+               <label>Greece</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Malta">
+               <label> Malta</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="San Marino">
+               <label> San Marino</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Vatican City">
+               <label> Vatican City</label><br>
+               </div>
+        
+            
+           </div>
+           <p>Southeast Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Albania">
+               <label>Albania</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Bosnia and Herzegovina">
+               <label> Bosnia and Herzegovina</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Bulgaria">
+               <label> Bulgaria</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Croatia">
+               <label>Croatia</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Kosovo">
+               <label> Kosovo</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Moldova">
+               <label>  Moldova</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Montenegro">
+               <label> Montenegro</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Republic of Macenodia">
+               <label> Republic of Macenodia</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Romania">
+               <label>  Romania</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Serbia">
+               <label> Serbia</label><br>
+               </div>
+        
+            
+           </div>
+           <p>Eastern Europe</p>
+             <div class="uno">
+              <div>
+               <input type="checkbox" name="destinity[]" value="Armenia">
+               <label>Armenia</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Azerbaijan">
+               <label>Azerbaijan</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Belarus">
+               <label> Belarus</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Georgia">
+               <label>Georgia</label>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Latvia">
+               <label> Latvia</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Lithuania">
+               <label>  Lithuania</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value="Estonia">
+               <label> Estonia</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Russia">
+               <label> Russia</label><br>
+               </div>
+               <div>
+               <input type="checkbox" name="destinity[]" value=" Ukraine">
+               <label>Ukraine</label><br>
+               </div>
+             
+        
+            
+           </div>
                 </div>
-            </div>
+        </div>
         <div class="mensaje">
             <textarea name="message2" placeholder="Write here ...." id="" cols="100" rows="10"></textarea>
         </div>

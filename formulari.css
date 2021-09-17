@@ -57,21 +57,31 @@
 }
 .paises{
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-around;
     align-items: center;
     margin-top: 15px ;
 }
-.paises div{
-    margin-right: 20px;
-}
-.varios{
-    margin: 15px auto;
-}
-.varios p{
-    text-align: center;
+.paises p{
     color: blue;
 }
+.tit{
+    color: red;
+    font-size: 1.5em;
+    text-transform: uppercase;
+}
+.uno{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.uno label{
+    margin-left: 10px;
+}
+
+
 #child{
     display: none;
 }
@@ -123,6 +133,9 @@
 }
 @media only screen and (max-width: 768px) {
     .general{
+        grid-template-columns: 1fr;
+    }
+    .uno{
         grid-template-columns: 1fr;
     }
 }
